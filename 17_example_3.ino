@@ -13,7 +13,7 @@
 #define _DIST_MIN  100.0   // minimum distance 100mm
 #define _DIST_MAX  250.0   // maximum distance 250mm
 
-#define _EMA_ALPHA  0.5      // for EMA Filter
+#define _EMA_ALPHA  0.6      // for EMA Filter
 
 #define LOOP_INTERVAL 20   // Loop Interval (unit: msec)
 
